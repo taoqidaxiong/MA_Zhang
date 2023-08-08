@@ -1,0 +1,14 @@
+name: evrys
+channels:
+  - goop
+  - conda-forge
+dependencies:
+  - python = 2.7.18
+  - numpy
+  - gams
+  - pandas
+  - networkx
+  - scipy
+  - matplotlib
+  - ipython
+  - xlrd
